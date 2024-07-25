@@ -131,7 +131,6 @@ dist
 .dev.vars
 
 # Rollup build dir
-build
 .DS_Store
 
 # Wrangler temp directory
